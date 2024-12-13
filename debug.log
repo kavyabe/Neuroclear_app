@@ -1,0 +1,264 @@
+Database connected successfully.
+Array
+(
+    [class_name] =>  ependymoma
+
+    [confidence_score] => 0.9516170620918274
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => 561f9122-cea5-4c09-9fd4-ddc5ef280c674980446137776088922.jpg
+            [full_path] => 561f9122-cea5-4c09-9fd4-ddc5ef280c674980446137776088922.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php581C.tmp
+            [error] => 0
+            [size] => 3805934
+        )
+
+)
+Class Name:  ependymoma
+, Confidence Score: 0.9516170620918274
+Database connected successfully.
+Array
+(
+    [class_name] => glioblastoma
+
+    [confidence_score] => 0.9786704182624817
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => 1000103379.jpg
+            [full_path] => 1000103379.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\phpFA51.tmp
+            [error] => 0
+            [size] => 2771650
+        )
+
+)
+Class Name: glioblastoma
+, Confidence Score: 0.9786704182624817
+Database connected successfully.
+Array
+(
+    [class_name] =>  carniopharyngioma
+
+    [confidence_score] => 0.7487404942512512
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => 1000124171.jpg
+            [full_path] => 1000124171.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\phpF87C.tmp
+            [error] => 0
+            [size] => 8577
+        )
+
+)
+Class Name:  carniopharyngioma
+, Confidence Score: 0.7487404942512512
+Database connected successfully.
+Array
+(
+    [class_name] => marcoadenoma
+
+    [confidence_score] => 0.3143455684185028
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => 1000124184.jpg
+            [full_path] => 1000124184.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php1A67.tmp
+            [error] => 0
+            [size] => 57544
+        )
+
+)
+Class Name: marcoadenoma
+, Confidence Score: 0.3143455684185028
+Database connected successfully.
+Array
+(
+    [class_name] => marcoadenoma
+
+    [confidence_score] => 0.35683271288871765
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => 1000124183.jpg
+            [full_path] => 1000124183.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php3BDA.tmp
+            [error] => 0
+            [size] => 82528
+        )
+
+)
+Class Name: marcoadenoma
+, Confidence Score: 0.35683271288871765
+Database connected successfully.
+Array
+(
+    [class_name] =>  astrocytoma
+
+    [confidence_score] => 0.8196343183517456
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => 1000124222.jpg
+            [full_path] => 1000124222.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\phpA7C9.tmp
+            [error] => 0
+            [size] => 207359
+        )
+
+)
+Class Name:  astrocytoma
+, Confidence Score: 0.8196343183517456
+Database connected successfully.
+Array
+(
+    [class_name] =>  astrocytoma
+
+    [confidence_score] => 0.8196343183517456
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => 1000124222.jpg
+            [full_path] => 1000124222.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php29D9.tmp
+            [error] => 0
+            [size] => 207359
+        )
+
+)
+Class Name:  astrocytoma
+, Confidence Score: 0.8196343183517456
+Database connected successfully.
+Array
+(
+    [class_name] =>  astrocytoma
+
+    [confidence_score] => 0.8196343183517456
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => 1000124222.jpg
+            [full_path] => 1000124222.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php1877.tmp
+            [error] => 0
+            [size] => 207359
+        )
+
+)
+Class Name:  astrocytoma
+, Confidence Score: 0.8196343183517456
+Database connected successfully.
+Array
+(
+    [class_name] =>  astrocytoma
+
+    [confidence_score] => 0.8196343183517456
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => 1000124222.jpg
+            [full_path] => 1000124222.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php3595.tmp
+            [error] => 0
+            [size] => 207359
+        )
+
+)
+Class Name:  astrocytoma
+, Confidence Score: 0.8196343183517456
+Database connected successfully.
+Array
+(
+    [class_name] => hemangioblastoma
+
+    [confidence_score] => 0.7531604766845703
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => IMG-20241212-WA0006.jpg
+            [full_path] => IMG-20241212-WA0006.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php7D72.tmp
+            [error] => 0
+            [size] => 98254
+        )
+
+)
+Class Name: hemangioblastoma
+, Confidence Score: 0.7531604766845703
+Database connected successfully.
+Array
+(
+    [class_name] => hemangioblastoma
+
+    [confidence_score] => 0.7531604766845703
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => IMG-20241212-WA0006.jpg
+            [full_path] => IMG-20241212-WA0006.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php4F29.tmp
+            [error] => 0
+            [size] => 98254
+        )
+
+)
+Class Name: hemangioblastoma
+, Confidence Score: 0.7531604766845703
+Database connected successfully.
+Array
+(
+    [class_name] =>  carniopharyngioma
+
+    [confidence_score] => 0.940168559551239
+)
+Array
+(
+    [image] => Array
+        (
+            [name] => 1000022175.jpg
+            [full_path] => 1000022175.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\xampp\tmp\php4392.tmp
+            [error] => 0
+            [size] => 78177
+        )
+
+)
+Class Name:  carniopharyngioma
+, Confidence Score: 0.940168559551239
